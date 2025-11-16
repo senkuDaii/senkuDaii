@@ -18,11 +18,8 @@
   <br>
 
   <!-- Creative -->
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,canva" />
-  <!-- Lightroom + DaVinci aren't on skillicons, so using clean icons below -->
-  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" />
-  <img height="42" src="https://img.icons8.com/?size=100&id=6i2QNb6t1x9h&format=png&color=000000" alt="DaVinci Resolve"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma," />
+  
 
 ---
 
