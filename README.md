@@ -46,5 +46,5 @@
 <br>
 
 <p align="center">
-  <i>"Simplicity is the ultimate form of sophistication."</i>
+  <i>"I'm handsome"</i>
 </p>
