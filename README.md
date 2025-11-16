@@ -18,14 +18,23 @@
   <br>
 
   <!-- Creative -->
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma," />
-  
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,canva" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" />
+  <img height="42" src="https://img.icons8.com/?size=100&id=6i2QNb6t1x9h&format=png&color=000000" alt="DaVinci Resolve"/>
+</p>
 
 ---
 
 ## 🎨 Beyond Code
 <p align="center">
-  📸 Photography • 🎥 Videography • 🎞️ Editing (video and photo) • 🎧 Music(mixing , rapping and songwriting)
+  📸 Photography • 🎥 Videography • 🎞️ Editing • 🎧 Music
+</p>
+
+---
+
+## ✨ Fun Facts
+<p align="center">
+  🐐 Messi is the GOAT • ☠️ One Piece is the greatest anime ever • 🎵 Creativity keeps me alive
 </p>
 
 ---
