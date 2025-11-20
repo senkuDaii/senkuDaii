@@ -9,16 +9,20 @@
 
 ## ✨ Tools I Use
 <p align="center">
-  <!-- Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python" />
+
+  <!-- Web Dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+
   <br>
 
-  <!-- Tech -->
-  <img src="https://skillicons.dev/icons?i=sql,dotnet,vscode" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" />
+
   <br>
 
-  <!-- Creative -->
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma,canva" />
+  <!-- AE & Figma -->
+  <img src="https://skillicons.dev/icons?i=ae,figma" />
+
 </p>
 
 ---
