@@ -2,7 +2,7 @@
 <h3 align="center">aka <b>Senku</b></h3>
 
 <p align="center">
-  Full-stack developer who loves clean UI, smooth UX, and writing Python for fun.
+  I'm the person who loves clean UI, smooth UX, and writing Python for fun.
 </p>
 
 ---
