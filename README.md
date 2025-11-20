@@ -1,5 +1,9 @@
-<h1 align="center">👋 Hi, I'm <b>Sameer Shrestha</b></h1>
-<h3 align="center">aka <b>Senku</b></h3>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi+I'm+Sameer+Shrestha+%F0%9F%91%8B;aka+Senku;Web+Developer+%7C+Python+Enthusiast;UI%2FUX+Lover+%26+Creative+Mind" alt="Typing SVG" />
+</p>
+
+---
 
 <p align="center">
   I'm the person who loves web development, clean UI, smooth UX, and writing Python for fun.
@@ -8,25 +12,33 @@
 ---
 
 ## ✨ Tools I Use
+
+<!-- Floating Animation Wrapper -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+  100% { transform: translateY(0px); }
+}
+.icon {
+  animation: float 2.5s ease-in-out infinite;
+}
+</style>
+
 <p align="center">
 
   <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img class="icon" src="https://skillicons.dev/icons?i=html,css,js" height="65"/>
 
-  <br>
-
-  <!-- Backend (PHP) -->
-  <img src="https://skillicons.dev/icons?i=php" />
-
-  <br>
+  <br><br>
 
   <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img class="icon" src="https://skillicons.dev/icons?i=python" height="65"/>
 
-  <br>
+  <br><br>
 
   <!-- AE & Figma -->
-  <img src="https://skillicons.dev/icons?i=ae,figma" />
+  <img class="icon" src="https://skillicons.dev/icons?i=ae,figma" height="65"/>
 
 </p>
 
