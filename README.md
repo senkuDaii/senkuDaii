@@ -15,6 +15,11 @@
 
   <br>
 
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+
+  <br>
+
   <!-- Python -->
   <img src="https://skillicons.dev/icons?i=python" />
 
