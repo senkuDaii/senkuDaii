@@ -6,40 +6,16 @@
 ---
 
 <p align="center">
-  I'm the person who loves web development, clean UI, smooth UX, and writing Python for fun.
-</p>
+  <img src="https://raw.githubusercontent.com/CaedenPH/AnimatedSVGIcons/main/float.svg" width="0" height="0">
 
----
-
-## ✨ Tools I Use
-
-<!-- Floating Animation Wrapper -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-.icon {
-  animation: float 2.5s ease-in-out infinite;
-}
-</style>
-
-<p align="center">
-
-  <!-- Web Dev -->
-  <img class="icon" src="https://skillicons.dev/icons?i=html,css,js" height="65"/>
-
-  <br><br>
-
-  <!-- Python -->
-  <img class="icon" src="https://skillicons.dev/icons?i=python" height="65"/>
-
-  <br><br>
-
-  <!-- AE & Figma -->
-  <img class="icon" src="https://skillicons.dev/icons?i=ae,figma" height="65"/>
-
+  <img class="float" src="https://skillicons.dev/icons?i=html" width="55" />
+  <img class="float" src="https://skillicons.dev/icons?i=css" width="55" />
+  <img class="float" src="https://skillicons.dev/icons?i=js" width="55" />
+  <br>
+  <img class="float" src="https://skillicons.dev/icons?i=python" width="55" />
+  <br>
+  <img class="float" src="https://skillicons.dev/icons?i=ae" width="55" />
+  <img class="float" src="https://skillicons.dev/icons?i=figma" width="55" />
 </p>
 
 ---
