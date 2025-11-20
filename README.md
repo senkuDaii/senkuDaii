@@ -15,8 +15,8 @@
 
   <br>
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <!-- Backend (PHP) -->
+  <img src="https://skillicons.dev/icons?i=php" />
 
   <br>
 
