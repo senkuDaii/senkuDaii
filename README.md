@@ -11,7 +11,7 @@ I enjoy building clean interfaces, smooth user experiences, and experimenting wi
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
@@ -21,26 +21,21 @@ I enjoy building clean interfaces, smooth user experiences, and experimenting wi
 <img src="https://skillicons.dev/icons?i=figma,ae,pr" />
 </p>
 
----
-
-## 🎧 Creative & Production Tools
-
 <p align="center">
-<img src="https://img.shields.io/badge/FL%20Studio-FF6A00?style=for-the-badge&logo=flstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/FL_Studio_Logo.svg" width="48"/>
 </p>
 
 ---
 
-## 🚀 What I Work On
+## 🚀 What I Do
 
 <p align="center">
 🧠 AI / Machine Learning Projects <br>
 🌐 Web Development <br>
 🎬 Video & Photo Editing <br>
-🎧 Music Production & Sound Design
+🎧 Music Production
 </p>
 
 ---
