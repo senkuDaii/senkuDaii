@@ -14,25 +14,33 @@ I enjoy building clean interfaces, smooth user experiences, and experimenting wi
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,ae" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,ae,pr" />
 </p>
 
 ---
 
-## 🎨 Creative Side
+## 🎧 Creative & Production Tools
 
 <p align="center">
-📸 Photography • 🎥 Videography • 🎞 Editing (Video & Photo) • 🎧 Music (Mixing • Rapping • Songwriting)
+<img src="https://img.shields.io/badge/FL%20Studio-FF6A00?style=for-the-badge&logo=flstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-## ⚡ Fun Zone
+## 🚀 What I Work On
 
 <p align="center">
-🐐 Messi is the GOAT <br>
-☠️ One Piece is the greatest anime ever <br>
-🎵 Creativity keeps me alive
+🧠 AI / Machine Learning Projects <br>
+🌐 Web Development <br>
+🎬 Video & Photo Editing <br>
+🎧 Music Production & Sound Design
 </p>
 
 ---
