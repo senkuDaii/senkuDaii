@@ -1,44 +1,42 @@
-<h1 align="center">👋 Hi, I'm <b>Sameer Shrestha</b></h1>
-<h3 align="center">aka <b>Senku</b></h3>
+<h1 align="center">👋 Hi, I'm Sameer Shrestha</h1>
+<h3 align="center">aka Senku ⚡</h3>
 
 <p align="center">
-  I'm the person who loves web development, clean UI, smooth UX, and writing Python for fun.
+💻 Web Development • 🐍 Python • 🎨 Creative Tech
+</p>
+
+<p align="center">
+I enjoy building clean interfaces, smooth user experiences, and experimenting with Python.
 </p>
 
 ---
 
-## ✨ Tools I Use
+## 🛠 Tech Stack
+
 <p align="center">
-
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-
-  <br>
-
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" />
-
-  <br>
-
-  <!-- AE & Figma -->
-  <img src="https://skillicons.dev/icons?i=ae,figma" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,ae" />
 </p>
 
 ---
 
-## 🎨 Beyond Code
+## 🎨 Creative Side
+
 <p align="center">
-  📸 Photography • 🎥 Videography • 🎞️ Editing (video & photo) • 🎧 Music (mixing, rapping, songwriting)
+📸 Photography • 🎥 Videography • 🎞 Editing (Video & Photo) • 🎧 Music (Mixing • Rapping • Songwriting)
 </p>
 
 ---
 
-## ✨ Fun Facts
-1. 🐐 Messi is the GOAT  
-2. ☠️ One Piece is the greatest anime ever  
-3. 🎵 Creativity keeps me alive  
+## ⚡ Fun Zone
+
+<p align="center">
+🐐 Messi is the GOAT <br>
+☠️ One Piece is the greatest anime ever <br>
+🎵 Creativity keeps me alive
+</p>
 
 ---
 
-<p align="center"><i>"I'm handsome."</i></p>
+<p align="center">
+<i>"Stay curious. Stay creative."</i> ✨
+</p>
