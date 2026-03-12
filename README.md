@@ -6,8 +6,6 @@
   <p align="center">
   <img height="120" src="cute-boy-working-on-laptop-cartoon-TCh4AKzR_t-removebg-preview.png"/>
 </p>
-  <br>
-  <br>
 </div>
 
 <div align="center">
