@@ -1,64 +1,74 @@
+<!-- Waving header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
 <br>
 
+<!-- Centered profile image -->
 <div align="center">
-  <p align="center">
   <img height="120" src="cute-boy-working-on-laptop-cartoon-TCh4AKzR_t-removebg-preview.png"/>
-</p>
 </div>
 
+<!-- Profile info -->
 <div align="center">
-<b>`プ ロ グ ラ マ`</b>
-<samp>
-<br>
-Hi there I'm <b>Sameer Shrestha</b><br>
-aka <b>Senkudai</b>
-</samp>
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+    <br>
+    Hi there, I'm <b>Sameer Shrestha</b><br>
+    aka <b>Senkudai</b>
+  </samp>
 </div>
 
+<!-- Animated typing -->
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=AI+Developer;Cybersecurity+Enthusiast;Machine+Learning+Student;Music+Producer;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=AI+Developer;Cybersecurity+Enthusiast;Machine+Learning+Student;Music+Producer;Welcome+to+my+GitHub!" />
 </div>
 
 <br>
 
+<!-- Simple badge -->
 <div align="center">
-<img src="https://img.shields.io/badge/senkudai-black" />
+  <img src="https://img.shields.io/badge/senkudai-black" />
 </div>
 
 <br>
 
+<!-- GitHub stats cards -->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudai&theme=zenburn"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudai&theme=zenburn"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=senkudai&show_icons=true&theme=radical&count_private=true"/>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/senkudai/output/main/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
-<!-- Skills Icons -->
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+<!-- Skills icons -->
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flstudio/flstudio-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
 </div>
 
 <br>
 
-
+<!-- Portfolio -->
 <div align="center">
-<sub>my portfolio = https://senkudai.netlify.app/</sub>
+  <sub>Portfolio: <a href="https://senkudai.netlify.app/">https://senkudai.netlify.app/</a></sub>
 </div>
 
 <br>
 
+<!-- Contact Me -->
 <details align="center">  
 <summary><samp><b>Contact Me</b></samp></summary>
 
@@ -76,10 +86,12 @@ aka <b>Senkudai</b>
 
 <br>
 
+<!-- Profile views -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=senkudai&label=Profile%20Views&color=123845&style=flat-square"/>  
+  <img src="https://komarev.com/ghpvc/?username=senkudai&label=Profile%20Views&color=123845&style=flat-square"/>  
 </div>
 
 <br>
 
+<!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
