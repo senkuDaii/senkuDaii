@@ -34,7 +34,7 @@
 
 <!-- GitHub stats -->
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudai&theme=zenburn"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudaii&theme=zenburn"/>
 </div>
 
 <br>
