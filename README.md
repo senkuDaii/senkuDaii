@@ -51,7 +51,9 @@ aka <b>Senkudai</b>
 <br>
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senkudai&show_icons=true&theme=radical&count_private=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=senkudai&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
+</p>
 
 ### 🐍 GitHub Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/senkudai/output/main/github-contribution-grid-snake.svg)
