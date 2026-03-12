@@ -54,7 +54,8 @@ aka <b>Senkudai</b>
 
 
 ### 🐍 GitHub Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/senkudai/output/main/github-contribution-grid-snake.svg)
+
+![GitHub Snake](https://raw.githubusercontent.com/senkudai/senkudai/output/github-contribution-grid-snake.svg)
 
 <br>
 
