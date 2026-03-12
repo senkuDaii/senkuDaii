@@ -66,12 +66,26 @@
 <details align="center">
   <summary><samp><b>Contact Me</b></samp></summary>
   <br>
-  [![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@senkuDai69)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/senkudai/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sameer-shrestha-177881290/)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/f82PEYrDbp)
-  [![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sameershrestha342@gmail.com)
+ <p align="center">
+  <a href="https://www.youtube.com/@senkuDai69">
+    <img src="https://img.shields.io/badge/YouTube-123845?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/senkudai/">
+    <img src="https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameer-shrestha-177881290/">
+    <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/f82PEYrDbp">
+    <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sameer.shrestha.358456/">
+    <img src="https://img.shields.io/badge/Facebook-123845?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:sameershrestha342@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
   <br>
 </details>
 
