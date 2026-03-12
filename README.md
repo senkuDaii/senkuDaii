@@ -32,33 +32,48 @@ aka <b>Senkudai</b>
 <br>
 
 <div align="center">
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudai&theme=zenburn"/>
-
 </div>
 
-<div align="center" style="display: inline_block"><br>
+<br>
 
+<div align="center" style="display: inline_block"><br>
+<!-- Skills Icons -->
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MSSQL-Dark.svg">
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
 </div>
 
 <br>
+
+<!-- GitHub Stats -->
+<div align="center">
+### 📊 GitHub Stats
+<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senkudai&show_icons=true&theme=radical&count_private=true)
+</div>
+
+<br>
+
+<!-- GitHub Contribution Snake -->
+<div align="center">
+### 🐍 GitHub Contribution Snake
+<br>
+![GitHub Snake](https://github.com/senkudai/github-contribution-grid-snake.svg)
+</div>
+
 <br>
 
 <div align="center">
-
 <sub>my portfolio = https://senkudai.netlify.app/</sub>
-
 </div>
 
 <br>
@@ -70,17 +85,17 @@ aka <b>Senkudai</b>
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge\&logo=youtube\&logoColor=fff)](https://www.youtube.com/@senkuDai69)
+[![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@senkuDai69)
 
-[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://www.instagram.com/senkudai/)
+[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/senkudai/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/sameer-shrestha-177881290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sameer-shrestha-177881290/)
 
-[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge\&logo=discord\&logoColor=fff)](https://discord.gg/f82PEYrDbp)
+[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/f82PEYrDbp)
 
-[![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge\&logo=facebook\&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
+[![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:sameershrestha342@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sameershrestha342@gmail.com)
 
 </div>
 
@@ -91,11 +106,7 @@ aka <b>Senkudai</b>
 <br>
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=senkudai&label=Profile%20Views&color=123845&style=flat-square"/>  
-<br>
-<b>6767 views</b>
-
 </div>
 
 <br>
