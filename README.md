@@ -7,15 +7,12 @@
 </div>
 
 <div align="center">
-
 <b>`プ ロ グ ラ マ`</b>
-
 <samp>
 <br>
 Hi there I'm <b>Sameer Shrestha</b><br>
 aka <b>Senkudai</b>
 </samp>
-
 </div>
 
 <div align="center" width="100%">
@@ -28,7 +25,6 @@ aka <b>Senkudai</b>
 <img src="https://img.shields.io/badge/senkudai-black" />
 </div>
 
-<br>
 <br>
 
 <div align="center">
@@ -67,7 +63,7 @@ aka <b>Senkudai</b>
 <div align="center">
 ### 🐍 GitHub Contribution Snake
 <br>
-![GitHub Snake](https://github.com/senkudai/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/senkudai/output/main/github-contribution-grid-snake.svg)
 </div>
 
 <br>
@@ -84,7 +80,6 @@ aka <b>Senkudai</b>
 <br>
 
 <div align="center">
-
 [![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@senkuDai69)
 
 [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/senkudai/)
@@ -96,11 +91,9 @@ aka <b>Senkudai</b>
 [![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sameershrestha342@gmail.com)
-
 </div>
 
 <br>
-
 </details>
 
 <br>
