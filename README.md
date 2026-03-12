@@ -69,19 +69,12 @@ aka <b>Senkudai</b>
 
 <br>
 
-<div align="center">
 [![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge&logo=youtube&logoColor=fff)](https://www.youtube.com/@senkuDai69)
-
 [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/senkudai/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sameer-shrestha-177881290/)
-
 [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/f82PEYrDbp)
-
 [![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge&logo=facebook&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sameershrestha342@gmail.com)
-</div>
 
 <br>
 </details>
