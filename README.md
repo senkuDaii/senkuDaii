@@ -1,5 +1,5 @@
-<!-- Sky Blue & Ocean Blue Waving Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&customColorList=87CEEB,0077BE&section=header"/>
+<!-- Purple & Pink Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&customColorList=800080,FF69B4&section=header"/>
 
 <!-- Profile image -->
 <div align="center">
@@ -84,5 +84,5 @@
 
 <br>
 
-<!-- Black & White Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&customColorList=000000,ffffff&section=footer"/>
+<!-- Purple & Pink Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&customColorList=800080,FF69B4&section=footer"/>
