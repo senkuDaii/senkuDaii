@@ -86,5 +86,5 @@
 
 <br>
 
-<!-- Footer waving effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+<!-- Black & White Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&customColorList=000000,ffffff&section=footer"/>
