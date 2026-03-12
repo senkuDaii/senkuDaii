@@ -50,21 +50,11 @@ aka <b>Senkudai</b>
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
 ### 📊 GitHub Stats
-<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senkudai&show_icons=true&theme=radical&count_private=true)
-</div>
 
-<br>
-
-<!-- GitHub Contribution Snake -->
-<div align="center">
 ### 🐍 GitHub Contribution Snake
-<br>
 ![GitHub Snake](https://raw.githubusercontent.com/senkudai/output/main/github-contribution-grid-snake.svg)
-</div>
 
 <br>
 
