@@ -3,31 +3,38 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/aXIQLp8.png" />
+  <img align="center" height="180" src="./avatar.png" />
 </div>
 
 <div align="center">
 
-<b>`プ ロ グ ラ マ`</b> <samp> <br>
-Hi there! I'm <b>Sameer Shrestha</b> </samp>
+<b>`プ ロ グ ラ マ`</b>
+
+<samp>
+<br>
+Hi there I'm <b>Sameer Shrestha</b><br>
+aka <b>Senkudai</b>
+</samp>
 
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=AI+Developer;Cybersecurity+Enthusiast;Machine+Learning+Student;Music+Producer;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=AI+Developer;Cybersecurity+Enthusiast;Machine+Learning+Student;Music+Producer;Welcome+to+my+GitHub!" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Senku-Black" />
+<img src="https://img.shields.io/badge/senkudai-black" />
 </div>
 
 <br>
 <br>
 
 <div align="center">
-  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=zenburn"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=senkudai&theme=zenburn"/>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -37,7 +44,8 @@ Hi there! I'm <b>Sameer Shrestha</b> </samp>
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MSSQL-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
@@ -47,28 +55,32 @@ Hi there! I'm <b>Sameer Shrestha</b> </samp>
 <br>
 <br>
 
+<div align="center">
+
+<sub>my portfolio = https://senkudai.netlify.app/</sub>
+
+</div>
+
+<br>
+
 <details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+<summary><samp><b>Contact Me</b></samp></summary>
 
 <br>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact Me
-    </b>
-  </samp>
-  <br>
-  <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:YOURMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge\&logo=discord\&logoColor=fff)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://linkedin.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-123845?style=for-the-badge\&logo=youtube\&logoColor=fff)](https://www.youtube.com/@senkuDai69)
+
+[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://www.instagram.com/senkudai/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/sameer-shrestha-177881290/)
+
+[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge\&logo=discord\&logoColor=fff)](https://discord.gg/f82PEYrDbp)
+
+[![Facebook](https://img.shields.io/badge/Facebook-123845?style=for-the-badge\&logo=facebook\&logoColor=fff)](https://www.facebook.com/sameer.shrestha.358456/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:sameershrestha342@gmail.com)
 
 </div>
 
@@ -79,9 +91,11 @@ Hi there! I'm <b>Sameer Shrestha</b> </samp>
 <br>
 
 <div align="center">
-  <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=123845"/>
-  </p>
+
+<img src="https://komarev.com/ghpvc/?username=senkudai&label=Profile%20Views&color=123845&style=flat-square"/>  
+<br>
+<b>6767 views</b>
+
 </div>
 
 <br>
