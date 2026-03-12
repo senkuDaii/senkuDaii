@@ -1,6 +1,22 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm sameer shrestha</h1>
+<h3 align="center">aka senkudai</h3>
+<img align="right" alt="Coding" width="400" src=""C:\Users\Admin\Downloads\cute-cartoon-boy-doing-work-laptop-minimalistic-vector-illustration_473883-2765.jpg"">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senkudaii" alt="senkudaii" /></a> </p>
+
+- 🔭 I’m currently working on **things that will make work easier**
+
+- 🌱 I’m currently learning **everything kinda**
+
+- 👨‍💻 All of my projects are available at [https://senkudai.netlify.app/](https://senkudai.netlify.app/)
+
+- 📝 I regularly write articles on [instagram note](instagram note)
+
+- 💬 Ask me about **except the IT field I am song writer who can (mix and master) also a producer, Editor of both photo's and video's also being healthy and fit is the motive of life and be kind peoples.....**
+
+- 📫 How to reach me **senkudai78@gmail.com**
+
+- ⚡ Fun fact **Messi is the GOAT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
