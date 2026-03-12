@@ -1,60 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sameer Shrestha</h1>
-<h3 align="center">aka Senku</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Developer;Cybersecurity+Enthusiast;React+Learner;Music+Producer"/>
-</p>
+<br>
 
----
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/aXIQLp8.png" />
+</div>
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🧠 Working on **AI & Machine Learning**
-- 🔐 Interested in **Cybersecurity**
-- 💻 Building **Brain Tumor & Skin Cancer Detection**
-- ⚛️ Learning **React**
-- 🎧 Music Producer using **FL Studio**
+<b>`プ ロ グ ラ マ`</b> <samp> <br>
+Hi there! I'm <b>Sameer Shrestha</b> </samp>
 
----
+</div>
 
-### 🛠 Tech Stack
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=7f9f7f&width=900&size=22&center=true&lines=AI+Developer;Cybersecurity+Enthusiast;Machine+Learning+Student;Music+Producer;Welcome+to+my+GitHub!" alt="Typing SVG"/>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,react,html,css,js,git,github,vscode,mysql"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Senku-Black" />
+</div>
 
-</p>
+<br>
+<br>
 
----
+<div align="center">
+  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=zenburn"/>
+</div>
 
-### 📊 GitHub Stats
+<div align="center" style="display: inline_block"><br>
 
-<p align="center">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<br>
+<br>
 
-</p>
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
 
----
+<br>
 
-### 📈 Activity Graph
+<div align="center">
+  <samp>
+    <b>
+      Contact Me
+    </b>
+  </samp>
+  <br>
+  <br>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge\&logo=gmail\&logoColor=fff)](mailto:YOURMAIL)
+[![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge\&logo=instagram\&logoColor=fff)](https://instagram.com/)
+[![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge\&logo=discord\&logoColor=fff)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://linkedin.com/)
 
----
+</div>
 
-### 🔥 Streak Stats
+<br>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-</p>
+</details>
 
----
+<br>
 
-<p align="center">
-✨ Code • Create • Secure • Repeat ✨
-</p>
+<div align="center">
+  <p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=123845"/>
+  </p>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
