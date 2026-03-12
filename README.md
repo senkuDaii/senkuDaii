@@ -1,5 +1,6 @@
 <!-- Header waving effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+<!-- Black & White Waving Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=black&customColorList=ffffff,000000&section=header"/>
 
 <br>
 
